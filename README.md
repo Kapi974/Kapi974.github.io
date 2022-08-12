@@ -1,3 +1,3 @@
 # Kapi974.github.io
 
-**Kacper P**
+**Cześć, jestem Kacper, a to jest moja pierwsza strona stworzona na GitHub.**

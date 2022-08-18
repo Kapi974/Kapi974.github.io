@@ -1,11 +1,11 @@
-#Kacper Pejka
+**Kacper Pejka**
 
-##Doświadczenie
-- HTML,CSS,JavaScript
+**Doświadczenie**
+ **HTML,CSS,JavaScript**
 od 2022
-- Scratch, Pixblocks
+**Scratch, Pixblocks**
 od 2019
-- Paint
+**Paint**
 od 2016
 
 
